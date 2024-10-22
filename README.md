@@ -12,7 +12,8 @@
 
 
 <h4>IMPORTANT NOTES: </h4> 
-- To ensure proper operation, please download and run the `parcel-handler` microservice from [here](https://github.com/KriszProg/parcel-handler).
+
+- To ensure proper operation, please download and run the `parcel-handler` microservice from [here](https://github.com/KriszProg/parcel-handler). 
 - Make sure that `parcel-handler` is running correctly before starting this application.
 
 ---
@@ -27,7 +28,6 @@
 - Spring Boot (v3.3.4)
 - Spring Cloud OpenFeign
 - OpenApi (Swagger) (v3)
-
 
 ---
 <h3>Building the Application </h3>
@@ -59,7 +59,7 @@
 
 <h3>Endpoints</h3>
 
-- upon successful startup, you can assess the built-in Swagger UI at: [http://localhost:8080/fox-client/swagger-ui.html](http://localhost:8080/fox-client/swagger-ui.html) 
+- upon successful startup, you can access the built-in Swagger UI at: [http://localhost:8080/fox-client/swagger-ui.html](http://localhost:8080/fox-client/swagger-ui.html) 
 - here you can explore all endpoints and their detailed explanations
 - the Swagger UI also allows you to interactively test each endpoint
 - feel free to explore and have fun! 😊
